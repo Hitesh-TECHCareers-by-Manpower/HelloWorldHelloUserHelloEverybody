@@ -4,7 +4,6 @@ C:\Users\user\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\Hello
 C:\Users\user\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.runtimeconfig.dev.json
 C:\Users\user\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.dll
 C:\Users\user\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.pdb
-C:\Users\user\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.csprojAssemblyReference.cache
 C:\Users\user\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.AssemblyInfoInputs.cache
 C:\Users\user\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.AssemblyInfo.cs
 C:\Users\user\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.csproj.CoreCompileInputs.cache
